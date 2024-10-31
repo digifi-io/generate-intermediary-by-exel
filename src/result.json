@@ -1,0 +1,2553 @@
+[
+  {
+    "intermediary_name": "Braustin Homes",
+    "intermediary_full_address": "84 NE Loop 410 (ste 180), San Antonio, TX 78216",
+    "intermediary_phone": "+12105100500",
+    "intermediary_record_id": "23618292873",
+    "intermediary_members": [
+      {
+        "_id": "545cfe86-19d8-4254-ac32-87d686255146",
+        "email": "Applications@braustin.com"
+      },
+      {
+        "_id": "f68bfa2c-977e-4038-98a2-a1eb45185404",
+        "email": "elie.hakim@braustin.com",
+        "job_title": "General Manager",
+        "first_name": "Elie",
+        "last_name": "Hakim"
+      },
+      {
+        "_id": "af1c9750-6c9c-40ad-b3ba-90bf806944e1",
+        "email": "jpina@braustin.com",
+        "job_title": "Ops Manager",
+        "first_name": "Jason",
+        "last_name": "Pina"
+      },
+      {
+        "_id": "9c867da8-5b9a-47cd-ba9d-2ce6a1f89765",
+        "email": "taylor.james@braustin.com",
+        "job_title": "Seller/funding items",
+        "first_name": "Taylor",
+        "last_name": "James"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "My Place Mobile Homes",
+    "intermediary_full_address": "701 West FM 495, San Juan, TX 78589",
+    "intermediary_phone": "+19569045083",
+    "intermediary_dealer_feedback": "Everything is going good. One thing Lily heard was that when we are going back and forth through emails, asking questions to our team, theres different email threads that they have to find the conversation where it was discusse… it would be best to keep everything on one thread, starting on the approval email thread. Example: It appears clearing customer conditions are taking a lot longer than they used to. dealer is waiting on update. Deal name: Cuadros, Leonardo - this deal we are going in circles for about 2 weeks on conditions, updates, etc. Overall, they are happy with us and the 0% down program has really helped them get lots of deals",
+    "intermediary_record_id": "23619212335",
+    "intermediary_members": [
+      {
+        "_id": "1198de3d-dddb-4434-b11f-eb47754ca1e9",
+        "email": "myplace@myplacemhs.com"
+      },
+      {
+        "_id": "d1c2441b-1f6b-41d4-96aa-ce4f3997ec61",
+        "email": "llopez@myplacemhs.com",
+        "job_title": "General Manager",
+        "first_name": "Lily",
+        "last_name": "Lopez"
+      },
+      {
+        "_id": "ecfac798-5957-46a2-9231-559b4da3b582",
+        "email": "gimorales@myplacemhs.com",
+        "job_title": "Funding items",
+        "first_name": "Israel",
+        "last_name": "Morales"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Triple C Homes",
+    "intermediary_full_address": "16824 Hwy 105 E, Conroe, TX 77306",
+    "intermediary_phone": "+19363377166",
+    "intermediary_dealer_feedback": "Only complaint (not even complaint) - funding part seems slow… everything else is phenomenal… we get majority of his deals.. Between us and 21st , we get 70% of their business… asked about ITIN… they do another 30%",
+    "intermediary_visit_notes": "Had a lot of good things to say about porchpass. Only issues was that fundings were taking longer than usual. We had an escalation that we fixed next day we aslo provided YETI coolers for the dealer.",
+    "intermediary_record_id": "23619263651",
+    "intermediary_members": [
+      {
+        "_id": "09cc5acb-1634-4786-8a57-1a0529dc3a3a",
+        "email": "CHASEMAHLMANN@OUTLOOK.COM",
+        "job_title": "General Manager",
+        "first_name": "Chase",
+        "last_name": "Mahlman"
+      },
+      {
+        "_id": "46fd6e32-1445-4fc0-9dfb-260dd3f8905e",
+        "email": "Stephaniemahlmann@gmail.com",
+        "first_name": "Stephanie",
+        "last_name": "Mahlmann"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Amarillo Home Center",
+    "intermediary_full_address": "4634 E Amarillo Blvd, Amarillo, TX 79107",
+    "intermediary_phone": "+18063109880",
+    "intermediary_dealer_feedback": "Only issue he has had, is the insurance issue… binder situation. Thinks all of the other stuff we are rolling out is going to solve this issue. Communication will improve.",
+    "intermediary_record_id": "23618290100",
+    "intermediary_members": [
+      {
+        "_id": "0b0347c2-ad18-45c7-a9c6-27b8850e6207",
+        "email": "hdillard@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Hayden",
+        "last_name": "Dillard"
+      },
+      {
+        "_id": "26734b1b-c8f2-4045-8619-af0ac55fdae5",
+        "email": "msanchez@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Michael",
+        "last_name": "Sanchez"
+      },
+      {
+        "_id": "d6b29b2c-c440-49d6-aec5-2547d7c622b4",
+        "email": "mysanchez@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Marissa",
+        "last_name": "Sanchez"
+      },
+      {
+        "_id": "842fb55c-33cb-4d0c-8ede-1e6aa1e6f79d",
+        "email": "jsandridge@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Jennifer",
+        "last_name": "Sandridge"
+      },
+      {
+        "_id": "477438b9-48c7-45aa-abd8-b774e1e7ee0f",
+        "email": "jharris@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Jessica",
+        "last_name": "Harris"
+      },
+      {
+        "_id": "7c36bacb-a5e7-4e67-aec8-61949beb6a55",
+        "email": "clytle@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Chance",
+        "last_name": "Lytle"
+      },
+      {
+        "_id": "e1d93070-9eb7-4bb9-8f6a-552229200d92",
+        "email": "larreola@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Lily",
+        "last_name": "Arreola"
+      },
+      {
+        "_id": "1f33ea13-b59c-4ff4-81ab-0fa84cd9f306",
+        "email": "gsebastian@amarillohomecenter.com",
+        "job_title": "Sales",
+        "first_name": "Gilberto",
+        "last_name": "Sebastian"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "American Homes Tyler",
+    "intermediary_full_address": "4550 State Hwy 31 West, Tyler, TX 75709",
+    "intermediary_dealer_feedback": "Only complaint, things are stalling a lot more, towards the end. Whether its getting in conditions, sending out LV, closings, wires..etc. Theres been a lot of uncertainty of them sending stuff in, that they have to run things up the ladder. Maye its new people... confusion, something, things have been off. Not terrible but just slowed down a bit. A lot more speedbumps. clearer images of updated conditions... Phone interviews are unchecked when it was completed, etc... finding out for deal FRENCH, all of a sudden we need more things after we were already cleared. wants us to send seller checklist with customer pre approval from the start.. two seperate emails, pre approval goes to dealer, pre approval and seller items go to dealer.",
+    "intermediary_record_id": "23618267714",
+    "intermediary_members": [
+      {
+        "_id": "1fafc814-2130-4499-be45-c581769ca942",
+        "email": "mmurphy@americanhomestyler.com",
+        "job_title": "General Manager",
+        "first_name": "Matt",
+        "last_name": "Murphy"
+      },
+      {
+        "_id": "e7491104-9d23-47ad-9a71-8ef53c12ccb4",
+        "email": "Loans@americanhomestyler.com"
+      },
+      {
+        "_id": "a9a90851-8147-4fa3-a200-1f0dc5218655",
+        "email": "Loans@titaniumhomestyler.com"
+      },
+      {
+        "_id": "0a2274c6-e394-40cb-9da2-f1b297921a84",
+        "first_name": "Erica",
+        "last_name": "Herandez"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Cowtown Home Center",
+    "intermediary_full_address": "9000 Jacksboro Hwy, Fort Worth, TX 76135",
+    "intermediary_phone": "+18172007010",
+    "intermediary_dealer_feedback": "had 2 deals where dealer had to consistently send info to us over and over (conditions, and seller items).. Files get overlooked. We are asking for things that are already sent. Other than that, everyhing has been good. Wants updates on changes we make so they can keep things smooth with us... any TPB policy changes, they want to know so they can prepare (aka signed insurance binder)... before they didnt need that , now we are asking for it.",
+    "intermediary_record_id": "23619246199",
+    "intermediary_members": [
+      {
+        "_id": "025b9b7a-b203-476a-88d4-f5c399d6103c",
+        "email": "cdavis@cowtownhomecenter.com",
+        "first_name": "Corey",
+        "last_name": "Davis"
+      },
+      {
+        "_id": "e0320b4c-fcda-4146-bbc4-2fde21b7b29f",
+        "email": "Info@cowtownhomecenter.com"
+      },
+      {
+        "_id": "9621fde3-f202-48e0-b393-0a81841b3fa5",
+        "email": "rcisneros@cowtownhomecenter.com",
+        "job_title": "General Manager",
+        "first_name": "Rafael",
+        "last_name": "Cisneros Jr"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "East Texas Home Center",
+    "intermediary_full_address": "2749 US 69, Lumberton, TX 77657",
+    "intermediary_phone": "+14092270621",
+    "intermediary_dealer_feedback": "Good thing is when they call, they can get someone on the phone. Love communication. They get approvals back quickly. Opportunities would be that we send a pending checklist, but say 3 weeks goes by, they don’t really have any update or a lot of times they have no idea whats remaining, etc. (more geared towards back end items)... dealer gets told what they need to send one item in, they send it, then we need more things... they send it in, then they need to send another.. They just want one single update. ALSO... dealer submitted for docs to 5 different deals - 3 diff banks... they got all other bank docs back, closed the customers, and they are still waiting on our docs. We are super fast on the front end, on the back end, we are slow.",
+    "intermediary_record_id": "23619217530",
+    "intermediary_members": [
+      {
+        "_id": "0ee31e6a-f734-4f3c-ab64-f944527a51c1",
+        "email": "trey@easttexashomecenter.com",
+        "job_title": "General Manager",
+        "first_name": "Trey",
+        "last_name": "Eckhardt"
+      },
+      {
+        "_id": "aa2eb8de-ad63-4e48-b4c4-b6f015d31baa",
+        "email": "financing@easttexashomecenter.com",
+        "job_title": "Store email"
+      },
+      {
+        "_id": "05ba6a79-4cb3-46c2-880f-cab3ba0c0310",
+        "email": "Mmancill@easttexashomecenter.com",
+        "job_title": "Seller",
+        "first_name": "Trey"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Americasa",
+    "intermediary_full_address": "1160 aldine bender rd, Houston, tx 77032",
+    "intermediary_phone": "+18326260767",
+    "intermediary_dealer_feedback": "Other than the programs that we need (ITIN) we do a great job.. Clear cons fast, funding is awesome. No complaints.. Only thing is that he wish he could send us more loans (ITIN, Parks, land and home). Also looking for sub 600 credit score programs - Tuesday is best day to meet with team, everyone will be there.",
+    "intermediary_record_id": "23619217531",
+    "intermediary_members": [
+      {
+        "_id": "3106951c-fac1-47ef-9c01-a22dd95e7a2e",
+        "email": "processingagents@myamericasa.com",
+        "job_title": "General Manager",
+        "first_name": "Luis"
+      },
+      {
+        "_id": "7a63f6eb-0ac5-4504-b31a-7e2fa6f11108",
+        "email": "luisl@myamericasa.com"
+      },
+      {
+        "_id": "206d7c1c-0661-4ec4-bb20-7991735c4e88",
+        "email": "Luisl@myamericasa.com",
+        "job_title": "General Manager",
+        "first_name": "Luis"
+      },
+      {
+        "_id": "918e2026-4764-4472-98dd-66df4e1d2387",
+        "email": "processingagents@myamericasa.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Fayette Country Homes",
+    "intermediary_full_address": "751 huser blvd, Schulenberg, TX 78956",
+    "intermediary_phone": "+19797436192",
+    "intermediary_dealer_feedback": "We are really fast.. Nothing comes to mind. No complaints… I asked what we can do to earn more business (they havent sent us any apps in a long time and all the deals we've funded have been super smooth), she said she isnt aware why but will get with Dalton and get back to us.",
+    "intermediary_record_id": "23618292874",
+    "intermediary_members": [
+      {
+        "_id": "1babc6ac-1fa5-466e-9b16-3c3759c1614b",
+        "email": "Finance@fayettecountryhomes.com"
+      },
+      {
+        "_id": "070d3163-bc2e-4a34-a385-a9f917813aab",
+        "email": "Hillary@fayettecountryhomes.com",
+        "job_title": "General Manager",
+        "first_name": "Hillary",
+        "last_name": "Adamek Sander"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Hench's Sherman",
+    "intermediary_full_address": "17245 TX-56, Sherman, TX 75092",
+    "intermediary_dealer_feedback": "Dealer has not sent us anything yet.. Wants to sit down and meet in person first…I asked for feedback but the response was from what he heard:  Not real fast. 23rd through the 1st , going on vacation. Wants to sit down with us and Kelly when he gets back."
+  },
+  {
+    "intermediary_name": "Hench's Denison",
+    "intermediary_full_address": "4526 Texoma Parkway, Dension TX 75020",
+    "intermediary_phone": "+19034657018",
+    "intermediary_vep_code": "differs",
+    "intermediary_dealer_feedback": "Couple of things - 1 is the proceeds worksheet… (disbursement).. Dealer funded 2 deals with us.. On the first funding sheet, it showed everything.. The other one was cutoff, a better proceeds sheet. The other is that at funding, it seems that it takes way too long ... for everything to be so fast, to just go slow at the very end for funding.",
+    "intermediary_record_id": "23618298164",
+    "intermediary_members": [
+      {
+        "_id": "e0901567-95ef-4044-8042-4a28cb324c7b",
+        "email": "tarra.caldwell@henchs.com",
+        "job_title": "Sales manager",
+        "first_name": "Tarra",
+        "last_name": "Caldwell"
+      },
+      {
+        "_id": "63a911db-96cf-4fd6-97ec-644714d6f4b0",
+        "email": "eric.dunkle@henchs.com",
+        "job_title": "General Manager",
+        "first_name": "Eric",
+        "last_name": "Dunkle"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Hench's Calera",
+    "intermediary_full_address": "23 Freda Circle, Calera OK 74730",
+    "intermediary_phone": "+15802962222",
+    "intermediary_licence_number": "RBI MH-0607",
+    "intermediary_vep_code": "differs",
+    "intermediary_dealer_feedback": "Loans in OK, once that happens he will be happy as a cat… Dealer just had their MH Meeting.. Everyone is stoked on us… everything is in OK.. Every TX deal they send to us. We arent getting beat on anything. Only thing they had an issue with is that we can do parks.",
+    "intermediary_record_id": "23614767710",
+    "intermediary_members": [
+      {
+        "_id": "e762fed8-f7dc-4db6-9553-790edd9fedf1",
+        "email": "austin.rupp@henchs.com",
+        "job_title": "General Manager",
+        "first_name": "Austin",
+        "last_name": "Rupp"
+      },
+      {
+        "_id": "c4c8dc94-9b52-4663-b523-42d0d09374f0",
+        "email": "ron.kramer@henchs.com",
+        "first_name": "Ron",
+        "last_name": "Kramer"
+      },
+      {
+        "_id": "8d53338f-4b95-49c3-b30a-580e5a749a99",
+        "email": "brittny.k@henchs.com",
+        "first_name": "Brittny",
+        "last_name": "K"
+      },
+      {
+        "_id": "9c3bfe20-57a2-44c4-b8e1-906cca2ab154",
+        "email": "mcdonald.todd@hotmail.com",
+        "first_name": "Todd",
+        "last_name": "Mcdonald"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "McDonald MH",
+    "intermediary_full_address": "2025 South Wheeler, Jasper, TX 75951",
+    "intermediary_phone": "+14093842548",
+    "intermediary_record_id": "23618287927",
+    "intermediary_members": [
+      {
+        "_id": "e2ab337d-1c9d-4b2d-8ae7-7f049a8faf74",
+        "email": "dustino@mcdonaldmh.com",
+        "first_name": "Dustin",
+        "last_name": "Orchosky"
+      },
+      {
+        "_id": "c8e5c5a6-8b76-4b9d-aad4-7bf6cdfebce7",
+        "email": "mcdonald.todd@hotmail.com",
+        "first_name": "Todd",
+        "last_name": "Mcdonald"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Twin Lakes MH",
+    "intermediary_full_address": "2601 South Wheeler, Jasper, TX 75951",
+    "intermediary_record_id": "23618308536",
+    "intermediary_members": [
+      {
+        "_id": "8fd02eb5-3b22-45db-a232-8235646dae78",
+        "first_name": "Dustin",
+        "last_name": "Orchosky"
+      },
+      {
+        "_id": "cf4b76b9-dd81-47a7-be37-b8458eaf9198",
+        "first_name": "Todd",
+        "last_name": "Mcdonald"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Mustang Homes",
+    "intermediary_full_address": "1405 N University Ave, Lubbock, TX 79415",
+    "intermediary_phone": "+18067656331",
+    "intermediary_licence_number": "RBI MH 35135",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Looking forward to one person assigned \"we love laurel\".. Having that one go to person everytime will be very helpful. Everything else is well.",
+    "intermediary_record_id": "23618275430",
+    "intermediary_members": [
+      {
+        "_id": "f36e1327-b42b-4a04-8062-a1d6cc4bf897",
+        "email": "carissa@mustanghomes.com",
+        "job_title": "General Manager",
+        "first_name": "Carissa",
+        "last_name": "White"
+      },
+      {
+        "_id": "e933fc66-94d8-43da-8b82-a4e47f65daf9",
+        "email": "aspurgeon@mustanghomes.com"
+      },
+      {
+        "_id": "ccb060fa-45b1-40e4-b41a-c88a6f217771",
+        "email": "vanaya@mustanghomes.com"
+      },
+      {
+        "_id": "2425e026-216d-435a-b3e8-7843261b10be",
+        "email": "nstewart@mustanghomes.com"
+      },
+      {
+        "_id": "a5a43e94-7de2-4405-bc62-30f85fece6cd",
+        "email": "smetzler@mustanghomes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titanium Home Center",
+    "intermediary_full_address": "1804 N University Ave, Lubbock, TX 79415"
+  },
+  {
+    "intermediary_name": "Titanium Homes tyler",
+    "intermediary_full_address": "4624 st hwy 31 west, tyler, TX 75709",
+    "intermediary_phone": "+19034008170",
+    "intermediary_licence_number": "RBI MH - 37885",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "Lately biggest point of pain is the closing side of things.. Loan Valuations, closing dates, etc. because of the middleman process, it seems to be taking longer than normal once we clear conditions, to get to the closing table. Its lingering longer and longer than it had a few months back. If we can get a list of Seller items at same time of initial approval..",
+    "intermediary_record_id": "23619217533",
+    "intermediary_members": [
+      {
+        "_id": "48c5af1d-55ed-4287-baf7-ed5044d2fcf0",
+        "email": "Loans@titaniumhomestyler.com",
+        "job_title": "Store email",
+        "first_name": "Matt",
+        "last_name": "Murphy"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Today Homes",
+    "intermediary_full_address": "1131 West 7th Avenue, Corsicana, TX 75110",
+    "intermediary_phone": "+19038724847",
+    "intermediary_licence_number": "RBI MH 264",
+    "intermediary_vep_code": "Differs",
+    "intermediary_dealer_feedback": "Spoke with Kristen, said we are pretty good about reaching out.. Communication is good. We are easy to get ahold of.",
+    "intermediary_record_id": "23606914645",
+    "intermediary_members": [
+      {
+        "_id": "656f2611-482a-4c88-bbcc-6647903cd903",
+        "email": "jmeador@TodayHomes.net",
+        "first_name": "Josh",
+        "last_name": "Meador"
+      },
+      {
+        "_id": "8d4c197d-428d-4784-94c0-d4147ba87659",
+        "email": "sdooley@todayhomes.net",
+        "first_name": "Sharon"
+      },
+      {
+        "_id": "0666575c-3eee-40f9-85b4-893c3a92ac37",
+        "email": "kmhays@TodayHomes.net",
+        "job_title": "General Manager",
+        "first_name": "Kristen"
+      },
+      {
+        "_id": "fff2ed04-d405-45a8-bddc-b64b866705f6",
+        "email": "wsmaupin@TodayHomes.net",
+        "job_title": "Owner",
+        "first_name": "Bill",
+        "last_name": "Maupin"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Regional Homes - Lufkin",
+    "intermediary_full_address": "803 N Medford Dr, Lufkin, TX 75901",
+    "intermediary_phone": "+19368996256",
+    "intermediary_licence_number": "RBI MH 37903",
+    "intermediary_vep_code": "Differs",
+    "intermediary_dealer_feedback": "We are doing good on quick response. That’s important to them. Quick closings for them. Triad just gave their customer a 7.1 and 7.3 rate on a customer with a 720-740.",
+    "intermediary_record_id": "23611782734",
+    "intermediary_members": [
+      {
+        "_id": "5c63aa87-58ef-40cf-9996-74aab2067789",
+        "email": "rguarnere@regionalhomes.com",
+        "first_name": "Rustin"
+      },
+      {
+        "_id": "3cf33ae5-29cb-4b6d-9586-18de070694ee",
+        "email": "luf@regionalhomes.net"
+      },
+      {
+        "_id": "b5bfd30e-b0ee-41e6-a7a0-73193b55de19",
+        "email": "jrangel@regionalhomes.net"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Brazos Home Center",
+    "intermediary_full_address": "2104 E State Hwy 21, Bryan, TX 77803",
+    "intermediary_phone": "+19794855929",
+    "intermediary_licence_number": "RBI MH 37455",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_record_id": "23616783203",
+    "intermediary_members": [
+      {
+        "_id": "42cb7224-6435-4393-a450-4915113302da",
+        "email": "charrell@brazoshomecenter.com",
+        "first_name": "Connie",
+        "last_name": "Harrell"
+      },
+      {
+        "_id": "c5dfaec5-6c1d-45a4-8f2d-9834606f49d4",
+        "email": "Hadamek@brazoshomecenter.com",
+        "first_name": "Holly"
+      },
+      {
+        "_id": "e502b026-7f8a-424b-bc9a-3feb820c8036",
+        "email": "ysanchez@brazoshomecenter.com",
+        "first_name": "Yaneshby"
+      },
+      {
+        "_id": "9960a842-2775-4ef1-88b5-b18655821485",
+        "email": "kmccormick@brazoshomecenter.com",
+        "first_name": "keith"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Fairfield HC",
+    "intermediary_full_address": "1101 W hwy 84, Fairfield TX 75840",
+    "intermediary_phone": "+1903403535",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "We have good communication. We communicate daily.. Maybe data or analytics. Backend could be better.",
+    "intermediary_record_id": "23619261263",
+    "intermediary_members": [
+      {
+        "_id": "8a4d98ff-d8b5-4059-b261-ea98f146e208",
+        "email": "rchambers@fairfieldhomecenter.com",
+        "job_title": "General Manager",
+        "first_name": "Robert",
+        "last_name": "Chambers"
+      },
+      {
+        "_id": "949779b1-47fa-4825-844f-a4b386094ac6",
+        "email": "tclark@fairfieldhomecenter.com",
+        "first_name": "Tabitha"
+      },
+      {
+        "_id": "17f3061f-3d17-43c1-a81f-a5fb2ea9cb27",
+        "email": "cwalker@fairfieldhomecenter.com"
+      },
+      {
+        "_id": "e75fb8e1-3390-444f-a175-9a5a8f0a2f8a",
+        "email": "bcrawford@fairfieldhomecenter.com"
+      },
+      {
+        "_id": "7b494806-12a0-4334-a054-0495375316cf",
+        "email": "trodriguez@fairfieldhomecenter.com"
+      },
+      {
+        "_id": "0680afb3-62fa-4965-ac57-639498d926d6",
+        "email": "jhenson@fairfieldhomecenter.com"
+      },
+      {
+        "_id": "d8190a61-1425-4778-afcd-5231a507c99c",
+        "email": "cearnheart@palestinehomecenter.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Big J Mobile Homes",
+    "intermediary_full_address": "5725 Andrews HWY, Odessa, TX 79762",
+    "intermediary_phone": "+14325500293",
+    "intermediary_licence_number": "RBI MH 1543",
+    "intermediary_vep_code": "vep 0",
+    "intermediary_dealer_feedback": "looking forward to faster responses on things. Like us and don’t have any complaints… asked for us to always stay better than TAMMAC… TAMMAC takes forever on processing anything and everything.",
+    "intermediary_record_id": "23611938831",
+    "intermediary_members": [
+      {
+        "_id": "117b1e1e-cc2b-4f73-b07d-b7c1995eba86",
+        "email": "Rodney@bigjmh.com",
+        "first_name": "Rodney"
+      },
+      {
+        "_id": "61a2a630-faaa-4a84-ad41-ef7a2dc7af13",
+        "email": "Al@bigjmh.com",
+        "first_name": "Al"
+      },
+      {
+        "_id": "c9ca6de7-a71e-466f-ab93-ea8d773ee992",
+        "email": "Nancy@bigjmh.com",
+        "first_name": "Nancy"
+      },
+      {
+        "_id": "b86e7f0b-899d-4844-9eff-53319b4dadbe",
+        "email": "Trevor@bigjmh.com",
+        "first_name": "Trevor"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Permian Home Center",
+    "intermediary_full_address": "6720 Andrews Hwy, Odessa, TX 79762"
+  },
+  {
+    "intermediary_name": "Smart Choice Homes",
+    "intermediary_full_address": "15712 Buck Road, Atascosa, TX 78002",
+    "intermediary_phone": "+12106229611",
+    "intermediary_licence_number": "RBI 37340",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "no complaints. Loves what we are doing.",
+    "intermediary_record_id": "23611473550",
+    "intermediary_members": [
+      {
+        "_id": "1169666b-3b61-4c5b-9056-df4006ea9d53",
+        "email": "Jmorris@smartchoicemh.com",
+        "first_name": "Jarvas"
+      },
+      {
+        "_id": "3e8bb7e8-c84b-45ba-94c8-df04dd29c9d6",
+        "email": "mgonzalez@smartchoicemh.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Brewer Quality Homes",
+    "intermediary_full_address": "3830 E Texas St, Bossier City, LA 71111",
+    "intermediary_record_id": "23611938829",
+    "intermediary_members": [
+      {
+        "_id": "f8fcaa3f-1a96-4bd2-bc4c-5d3040f31d11",
+        "job_title": "General Manager",
+        "first_name": "Nathan"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MHC - Von Ormy",
+    "intermediary_full_address": "13930 IH 35 South, Von Ormy, TX 78073",
+    "intermediary_phone": "+12106233356",
+    "intermediary_licence_number": "RBI 35417",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "like us. No feedback at all.",
+    "intermediary_record_id": "23619214945",
+    "intermediary_members": [
+      {
+        "_id": "24e1e635-48eb-42b2-bea0-cd3adc0c09c5",
+        "email": "jespinozamhc@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Jesse"
+      },
+      {
+        "_id": "76edd79d-e41a-4cc2-a534-2239d6e71ad0",
+        "email": "Andyt.mhc@gmail.com"
+      },
+      {
+        "_id": "dfb280e1-c6d9-4282-9e90-e95391f6f4e2",
+        "email": "MHC7241@gmail.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MHC - Laredo",
+    "intermediary_full_address": "5221 Zapata Hwy Suite A, Laredo, TX 78046",
+    "intermediary_phone": "+19567272280",
+    "intermediary_licence_number": "RBI 36926",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Fundings take forever… the moment welcome home call is completed, we are asking for additional docs that are missed (not a TPB issue, this is an LO/LA situation).. Fundings are now taking days to issue wire. They love us, but things are taking way too long. We get a deal all the way to closing, then ask for customer conditoins that were missed.",
+    "intermediary_record_id": "23618292872",
+    "intermediary_members": [
+      {
+        "_id": "33bc1609-82b4-4094-9ccf-a9e5c69157dc",
+        "email": "mhc7243@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Laura"
+      },
+      {
+        "_id": "73fbd447-cab9-4b5c-967b-278fe3fdb94f",
+        "email": "mhclaural@gmail.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MHC - New Braunfels",
+    "intermediary_full_address": "7200 N IH 35, New Braunfels, TX 78130",
+    "intermediary_phone": "+18306255240",
+    "intermediary_licence_number": "RBI 36533",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "When dealers call, they get different opinions on conditions being cleared, updates, etc.",
+    "intermediary_record_id": "23619230344",
+    "intermediary_members": [
+      {
+        "_id": "3000340d-8c6a-43e6-bc19-997e3029ea5f",
+        "email": "MHCRlopez@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Robert",
+        "last_name": "Lopez"
+      },
+      {
+        "_id": "29e943e0-b7b3-4658-b757-d2fda6d46f6e",
+        "email": "MHC7242@gmail.com",
+        "job_title": "Store Email"
+      },
+      {
+        "_id": "ea51abc1-3cdc-4f38-9131-99068e55766c",
+        "email": "esandovalmhc@gmail.com",
+        "job_title": "Sales manager",
+        "first_name": "Edward",
+        "last_name": "Sandoval"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MH Factory Direct",
+    "intermediary_full_address": "14107 Quarter Horse, Von Ormy, TX 78073",
+    "intermediary_phone": "+12103392471",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Delays on conditions being cleared.. Hard to reach people on the phone. They send conditions then we overlook them and ask for more.",
+    "intermediary_record_id": "23619222371",
+    "intermediary_members": [
+      {
+        "_id": "112d0848-c5f6-4c99-ba97-1403d4b404de",
+        "email": "MHC7244@gmail.com",
+        "job_title": "Store Email",
+        "first_name": "Isabel"
+      },
+      {
+        "_id": "db88422d-caac-4bd1-8f55-af3f14b21945",
+        "email": "isabel.mhdirect@gmail.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MHC Victoria",
+    "intermediary_full_address": "14182 Hwy 77 North, Victoria, TX 77904",
+    "intermediary_phone": "+13613330616",
+    "intermediary_licence_number": "RBI  37917",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Dealer has been having trouble with submitting stuff, no one touches it for 24 hours.. (deal Mikulek specifically).",
+    "intermediary_record_id": "23615502185",
+    "intermediary_members": [
+      {
+        "_id": "e8e81482-0d87-4e82-af51-7cdd18309daa",
+        "email": "mobilehomesvictoria@gmail.com",
+        "job_title": "Store Email"
+      },
+      {
+        "_id": "6c3ad42c-3bbd-4e5a-906d-6e9ef5ce204f",
+        "email": "Pino.mhc@gmail.com",
+        "first_name": "Pino"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "MHC Corpus Christi",
+    "intermediary_full_address": "1814 n padre island dr, Corpus Christi, TX 78408",
+    "intermediary_phone": "+13612996096",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "New GM - Adam - will get with team on feedback.. Will try and get more business sent to us",
+    "intermediary_record_id": "23616108360",
+    "intermediary_members": [
+      {
+        "_id": "f996d7e6-405d-4526-a36b-93fc2fdbfac8",
+        "email": "ajr1980mhc@gmail.com",
+        "first_name": "Adam"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "TX BUILT Schulenberg",
+    "intermediary_full_address": "371 E I10 Frontage, Schulenburg, TX 78956",
+    "intermediary_phone": "+19793304663",
+    "intermediary_licence_number": "RBI 37212",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "We have been the best bank we have worked with so far. All good feedback",
+    "intermediary_record_id": "23614767711",
+    "intermediary_members": [
+      {
+        "_id": "c46c7972-c6a2-4be4-abfb-671dd64dee14",
+        "email": "matt.w@txbmh.com",
+        "first_name": "Matt",
+        "last_name": "Woods"
+      },
+      {
+        "_id": "3b1d89fa-1a68-4856-b7ea-59b5f0776f73",
+        "email": "erica@txbmh.com",
+        "first_name": "Erica"
+      },
+      {
+        "_id": "0d70776d-a028-4512-b818-af153fd85cbf",
+        "email": "marco@txbmh.com",
+        "first_name": "Mark"
+      },
+      {
+        "_id": "3eb74dbf-a57b-485c-88cf-69ab0cb7a2e1",
+        "email": "Bmareth@txbmh.com",
+        "first_name": "Brenda"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "TX Built Seguin",
+    "intermediary_full_address": "6245 IH 10 Frontage Rd, Seguin, TX 78155",
+    "intermediary_phone": "+18308889701",
+    "intermediary_licence_number": "RBI 37146",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "we've been pretty spot on.. Likes our updates that they get… They would like to have a better advance on site work… 21st can do 200% when above 700 credit score.",
+    "intermediary_record_id": "23614958239",
+    "intermediary_members": [
+      {
+        "_id": "d8ae46e2-d4b4-4dc3-98d5-3917a95d798e",
+        "email": "jose@txbmh.com",
+        "first_name": "Jose",
+        "last_name": "Morales"
+      },
+      {
+        "_id": "c28ca410-b4d1-40a8-b84d-fc42b1dd1e50",
+        "email": "cameron@txbmh.com"
+      },
+      {
+        "_id": "d12b577b-2c7b-45fd-870c-99eb32d40d39",
+        "email": "Derrick@txbmh.com"
+      },
+      {
+        "_id": "a436d6b4-77e3-4b95-af4a-39f70dcf4b48",
+        "email": "landry@txbmh.com"
+      },
+      {
+        "_id": "0a04dbef-07ea-4d3d-bdcf-02f669617889",
+        "email": "Matt.Richardson@txbmh.com"
+      },
+      {
+        "_id": "8e724c2a-6b25-4595-88f0-df936d0f3101",
+        "email": "steven@txbmh.com"
+      },
+      {
+        "_id": "8050dfc3-62bd-4ca3-9f9e-b57deec9036c",
+        "email": "leigh@txbmh.com"
+      },
+      {
+        "_id": "4b8d0646-ca7c-470a-b642-27124fb98edf",
+        "email": "keegan@txbmh.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "TX Built Odessa",
+    "intermediary_full_address": "6900 trunk street, Odessa, TX 79762",
+    "intermediary_phone": "+14322250331",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Asking for stuff that’s already been asked for, timely updates.",
+    "intermediary_record_id": "23616453511",
+    "intermediary_members": [
+      {
+        "_id": "f990f97a-caa6-4cc8-a7e5-e660d7551b0a",
+        "email": "jerry@txbmh.com",
+        "job_title": "General Manager",
+        "first_name": "Jerry",
+        "last_name": "muntz"
+      },
+      {
+        "_id": "570280dc-7c64-4dbf-aadc-bf42a716e0b9",
+        "email": "jared@txbmh.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Reserve at Sleepy Hollow",
+    "intermediary_full_address": "10118 Falvey Lk Ln, Conroe, TX 77385",
+    "intermediary_phone": "+19362022501",
+    "intermediary_record_id": "23619241064",
+    "intermediary_members": [
+      {
+        "_id": "f30d8119-7c28-4e44-bd8d-45ff4889ce80",
+        "job_title": "Regional",
+        "first_name": "Bryan",
+        "last_name": "Rogers"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Reserve at Copano Bay",
+    "intermediary_full_address": "Pura Vida Dr, Rockport, TX 78382",
+    "intermediary_phone": "+13617922732"
+  },
+  {
+    "intermediary_name": "Reserve on McKinney",
+    "intermediary_full_address": "5609 E McKinney St, Denton, TX 76208",
+    "intermediary_phone": "+18177664250"
+  },
+  {
+    "intermediary_name": "Solitaire San Antonio",
+    "intermediary_full_address": "8475 HWY 90, San Antonio, TX 78227",
+    "intermediary_phone": "+12106755040",
+    "intermediary_licence_number": "RBI 36611",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "They like us. Think we are doing everythign right. Thinks its more on them.. Needs to send us more deals. Will be meeting with them next week to meet their team. Liked our communication, had a deal go through and were happy about it. Ready for new systems we are coming out with.",
+    "intermediary_record_id": "23619212334",
+    "intermediary_members": [
+      {
+        "_id": "af7bcc4d-6d4d-42ef-ac3b-64d129a9d6bf",
+        "email": "gm607@cavco.com",
+        "job_title": "General Manager",
+        "first_name": "Jeremiah",
+        "last_name": "Stakes"
+      },
+      {
+        "_id": "d6099113-18dd-4671-a9df-b918b4d4f617",
+        "email": "ops607@cavco.com",
+        "first_name": "Carmen"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palestine Home Center",
+    "intermediary_full_address": "8048 South US HWY 79, Palestine, TX 75703",
+    "intermediary_phone": "+19039142159",
+    "intermediary_licence_number": "RBI 38152",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "Wants updates more on stipulations / conditions.. Making sure the right people are included on updates.",
+    "intermediary_record_id": "23618290101",
+    "intermediary_members": [
+      {
+        "_id": "2b452e72-7aac-4f3b-b793-3a30d781046e",
+        "email": "kkansala@palestinehc.com",
+        "job_title": "General Manager",
+        "first_name": "Kyle",
+        "last_name": "Kansala"
+      },
+      {
+        "_id": "4e57340a-e161-4ad2-8713-f9de834d4c7b",
+        "email": "shays@palestinehc.com",
+        "first_name": "Sarah",
+        "last_name": "Hays"
+      },
+      {
+        "_id": "93ff4375-2e59-47c1-8a24-9ef36d3dc619",
+        "email": "adurst@palestinehc.com",
+        "first_name": "Andrew",
+        "last_name": "Durst"
+      },
+      {
+        "_id": "eef6eef3-5317-4101-991c-28c22fef866e",
+        "email": "tclark@fairfieldhomecenter.com",
+        "first_name": "Tabitha"
+      },
+      {
+        "_id": "704cb1e6-2662-4646-871e-22517dad2b07",
+        "email": "Rchambers@fairfieldhomecenter.com",
+        "job_title": "Owner",
+        "first_name": "Robert",
+        "last_name": "Chambers"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Reserve at Flores Valley",
+    "intermediary_full_address": "15803 Flores Crest, San Antonio, TX 78221",
+    "intermediary_phone": "+17262334700"
+  },
+  {
+    "intermediary_name": "A1 Homes San Antonio",
+    "intermediary_full_address": "3115 SW Loop 410, San Antonio, TX 78227",
+    "intermediary_phone": "+12106737100",
+    "intermediary_record_id": "23598251844",
+    "intermediary_members": [
+      {
+        "_id": "7656951f-7057-49fa-a0c5-59957f2b17fd",
+        "first_name": "Craige",
+        "last_name": "Bryant"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Brigadier Manufactured Homes",
+    "intermediary_full_address": "3900 I35 South, Waco, TX 76706",
+    "intermediary_phone": "+12546621373",
+    "intermediary_licence_number": "RBI 37278",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Just wants updates sent. No complaints from her.",
+    "intermediary_record_id": "23618182513",
+    "intermediary_members": [
+      {
+        "_id": "dc9e7b28-ed47-4fc3-979d-ffcc89f34cc0",
+        "email": "btaylor@brigadiermh.com",
+        "job_title": "Sales Manager",
+        "first_name": "Brandi",
+        "last_name": "Taylor"
+      },
+      {
+        "_id": "627e853d-d3a1-4692-a616-9ec4e45c2cfc",
+        "email": "bpatterson@brigadiermh.com",
+        "first_name": "Bobby",
+        "last_name": "Patterson"
+      },
+      {
+        "_id": "90850c03-b844-401f-ae5b-63b00ecb3037",
+        "email": "tim@brigadiermh.com",
+        "first_name": "Tim",
+        "last_name": "Razkani"
+      },
+      {
+        "_id": "a348c78f-d9f3-4396-a5be-223f29bd8e9e",
+        "email": "april@brigadiermh.com",
+        "first_name": "April",
+        "last_name": "Bearden"
+      },
+      {
+        "_id": "c96808c0-cc1d-4f74-8c05-ce7087f9ef54",
+        "email": "rallen@brigadiermh.com",
+        "first_name": "Russ",
+        "last_name": "Allen"
+      },
+      {
+        "_id": "fee0d278-5cbf-4ea9-b67f-92acaed18b42",
+        "email": "ksimon@brigadiermh.com",
+        "job_title": "General Manager",
+        "first_name": "Kavan",
+        "last_name": "Simon"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Homes Across America",
+    "intermediary_full_address": "17431 Interstate 45 N, Willis, TX 77318",
+    "intermediary_phone": "+19363449000",
+    "intermediary_licence_number": "RBI 34489",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "All things are good with us. Really only do Land and home",
+    "intermediary_record_id": "23597643871",
+    "intermediary_members": [
+      {
+        "_id": "35ab24a6-61de-4aad-a1e0-b54478497493",
+        "email": "haatexas@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Bob"
+      },
+      {
+        "_id": "3cc7cd9e-dce5-4841-abb7-06be639d1626",
+        "email": "bob@bmbrokers.net"
+      },
+      {
+        "_id": "5d6f6662-437e-4da4-86db-75df4209fddb",
+        "email": "info@alamomfdhomes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Alamo Homes",
+    "intermediary_full_address": "13838 Southton Rd, San Antonio, TX 78223",
+    "intermediary_phone": "+12106333800",
+    "intermediary_record_id": "23619251084",
+    "intermediary_members": [
+      {
+        "_id": "16c31533-12ab-4756-9178-f1ebfa9037c6",
+        "email": "harvey@alamohomes.net"
+      },
+      {
+        "_id": "289e89b3-c82d-4ba4-b41c-e23085586d12",
+        "email": "iris@alamohomes.net"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Hobbs Manufactured Homes",
+    "intermediary_full_address": "1800 Piney Rd, Texarkana, TX 75501",
+    "intermediary_phone": "+19037359921",
+    "intermediary_dealer_feedback": "Everybody there enjoys porchpass… they deliver to 4 states - Ark, TX, Oklahoma, Louisana",
+    "intermediary_record_id": "23619274552",
+    "intermediary_members": [
+      {
+        "_id": "db8f09df-0d91-46a8-bb9a-bbdc956bf0a8",
+        "email": "phobbs@hobbsmanufacturedhomes.com",
+        "job_title": "General Manager",
+        "first_name": "Patt",
+        "last_name": "Hobbs"
+      },
+      {
+        "_id": "7dd9b1d9-d3c7-45cc-a04e-f463e69c1a38",
+        "email": "drowe@hobbsmanufacturedhomes.com"
+      },
+      {
+        "_id": "6e5a2120-54c7-4152-91b6-4e45fb983586",
+        "email": "mbriley@hobbsmanufacturedhomes.com"
+      },
+      {
+        "_id": "632bf7fc-ce7d-41be-810f-c3dc35a75741",
+        "email": "halexander@hobbsmanufacturedhomes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Reliable Homes Huntsville",
+    "intermediary_full_address": "1015 Southwood dr, Huntsville, TX 77320",
+    "intermediary_phone": "+19362958188",
+    "intermediary_licence_number": "RBI 35671",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Dealer likes all of our things. No complaints.. Debbie had mentiond that process from cleared conditions to closing was taking longer than normal… items requested are repetitive.",
+    "intermediary_record_id": "23615502184",
+    "intermediary_members": [
+      {
+        "_id": "b383fac3-8be9-420d-9759-38732684bf08",
+        "email": "Freddy@huntsvillereliablehomes.com"
+      },
+      {
+        "_id": "6f07c958-34a9-42cc-8684-660a10d1946f",
+        "email": "Fernando@huntsvillereliablehomes.com"
+      },
+      {
+        "_id": "86c19740-599e-4a33-8b87-173a2cd79acf",
+        "email": "dequita@huntsvillereliablehomes.com"
+      },
+      {
+        "_id": "1b8f0830-2312-4205-9901-e436bd8371a9",
+        "email": "debra@huntsvillereliablehomes.com"
+      },
+      {
+        "_id": "50ffe6bd-1e1e-4f61-8cbb-adc833d45c62",
+        "email": "Ryan@huntsvillereliablehomes.com",
+        "job_title": "General Manager",
+        "first_name": "Ryan"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Peoples Manufactured Homes",
+    "intermediary_full_address": "315 E Frontage Rd, Alamo, TX 78516",
+    "intermediary_phone": "+19567814636",
+    "intermediary_licence_number": "RBI 034706",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "Most everything is good. The one thing that makes a problem , is when they require tradelinse for 0 score..",
+    "intermediary_record_id": "23610166914",
+    "intermediary_members": [
+      {
+        "_id": "810d4897-d341-4d89-a0da-3cf5129bc527",
+        "email": "agonzalez2907@yahoo.com",
+        "first_name": "Alex"
+      },
+      {
+        "_id": "5dde3de6-6236-4177-a05a-6681d40b690f",
+        "email": "pmanufac@att.net",
+        "job_title": "Store email"
+      },
+      {
+        "_id": "7d9f8b49-980e-4f3f-9e31-ce74ecc1209b",
+        "email": "Diana.3824@outlook.com",
+        "first_name": "Diana"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "World Wide MH",
+    "intermediary_full_address": "207 S Lhs, Dr, Lumberton, TX 77657",
+    "intermediary_phone": "+14097557595",
+    "intermediary_record_id": "23619222373",
+    "intermediary_members": [
+      {
+        "_id": "298c6d37-7365-4ba7-9d47-cf1e3b58d30e",
+        "job_title": "General Manager",
+        "first_name": "J'me"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "A1 Homes - Donna",
+    "intermediary_full_address": "604 N Victoria Rd, Donna, TX 78537",
+    "intermediary_phone": "+19564612130",
+    "intermediary_licence_number": "RBI 36188",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "Wish we had Portal… give us top of mind.",
+    "intermediary_record_id": "23619235948",
+    "intermediary_members": [
+      {
+        "_id": "965ca3a5-a8d4-4fab-b740-aac3c0d6b094",
+        "email": "a1homesabraham@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Abraham"
+      },
+      {
+        "_id": "b562a195-bfc0-4190-be4e-d52b8012ffd1",
+        "email": "a1homesarmando@gmail.com",
+        "first_name": "Armando"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Country Living Modular Homes Alice",
+    "intermediary_full_address": "500 S Flournoy Rd, Alice, TX 78332",
+    "intermediary_phone": "+13616031660",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "No bad advice.. DTI is low but nothing we can do on that… they like us nonetheless. Great communication from staff. Could not be happier. Wishes every customer would qualify with porchpass. Mississippi new dealer coming",
+    "intermediary_record_id": "23618308608",
+    "intermediary_members": [
+      {
+        "_id": "3dba6631-e1ef-4e9c-8f96-5a65bb196c79",
+        "email": "Paul@countrylivingmodular.com",
+        "job_title": "General Manager",
+        "first_name": "Paul",
+        "last_name": "Rose"
+      },
+      {
+        "_id": "ddca81e0-cc13-47af-84ac-2074cc3ac3a3",
+        "email": "terra@countrylivingmodularhomes.com",
+        "first_name": "Terra"
+      },
+      {
+        "_id": "33c9f295-c7f1-458b-adce-cb18aa64bf44",
+        "email": "Dena@countrylivingmodularhomes.com",
+        "first_name": "Dena"
+      },
+      {
+        "_id": "29608bc5-29b3-4fb0-bec8-33f77c5a4ecb",
+        "email": "claudia@countrylivingmodular.com",
+        "first_name": "Claudia"
+      },
+      {
+        "_id": "24a8c19b-9f6d-4af5-96bd-6b67a21eacef",
+        "email": "morgan@countrylivingmodular.com",
+        "first_name": "Morgan"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Country Living Modular Homes Alleyton",
+    "intermediary_full_address": "1004 Mentz Rd, Alleyton, TX 78935",
+    "intermediary_phone": "+19797322030",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "No bad advice.. DTI is low but nothing we can do on that… they like us nonetheless",
+    "intermediary_record_id": "23619214944",
+    "intermediary_members": [
+      {
+        "_id": "8f364fa4-72be-4ca9-b3ff-178d0a5bf40c",
+        "email": "Rolando@countrylivingmodularhomes.com",
+        "first_name": "Rolando"
+      },
+      {
+        "_id": "23cbcf0f-aa82-4001-a3fb-6a38ecfb9983",
+        "email": "Paul@countrylivingmodular.com",
+        "job_title": "General Manager",
+        "first_name": "Paul",
+        "last_name": "Rose"
+      },
+      {
+        "_id": "746717c5-c240-4a4c-8627-4ddea86e02cf",
+        "email": "claudia@countrylivingmodular.com",
+        "first_name": "Claudia"
+      },
+      {
+        "_id": "a3c5d147-c007-4f23-b6d5-49d0b2a8d033",
+        "email": "morgan@countrylivingmodular.com",
+        "first_name": "Morgan"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Maverick Homes",
+    "intermediary_full_address": "12155 Hwy 69 North, Tyler, TX 75706",
+    "intermediary_phone": "+19038827977",
+    "intermediary_licence_number": "RBI 34253",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "Love everything we are doing, no issues.",
+    "intermediary_record_id": "23618283327",
+    "intermediary_members": [
+      {
+        "_id": "9af4dfad-6c86-4b48-b57a-fe1375b2e670",
+        "email": "kevin.maverickhomes@gmail.com",
+        "first_name": "Kevin"
+      },
+      {
+        "_id": "d87d0640-2204-403c-b46f-1678b093b260",
+        "email": "larry.maverickhomes@gmail.com",
+        "first_name": "larry"
+      },
+      {
+        "_id": "91e638c2-7b4c-4ab8-b64a-70a7c0425ae0",
+        "email": "shawnjl19@gmail.com",
+        "first_name": "Michelle"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "A1 Homes Splendora",
+    "intermediary_full_address": "15701 US 59 BUS, Splendora, TX 77372",
+    "intermediary_phone": "+12816897830",
+    "intermediary_dealer_feedback": "gave compliment that so far, we have done a great job on processing deals to get it done. Get conditions collected, done a really good job. Travis has done an excellent job. Sam was excitited that we were able to get our first deal with him all the qway to funding. Also is pleased to hear that we are coming out with our I-10 program very soon.",
+    "intermediary_record_id": "23619261264",
+    "intermediary_members": [
+      {
+        "_id": "c7779c64-5c16-4783-850f-e4913e6f9f3f",
+        "email": "sdalley@a1homes.com",
+        "first_name": "Sam",
+        "last_name": "Dalley"
+      },
+      {
+        "_id": "a2cce142-9c76-4f8f-8992-8b2a587f3c80",
+        "email": "mduran@a1homes.com",
+        "first_name": "Mica",
+        "last_name": "Duran Herreria"
+      },
+      {
+        "_id": "b275de9e-60b7-4847-9340-59c084ca521e",
+        "email": "mnolasco@a1homes.com",
+        "first_name": "myra",
+        "last_name": "nolasko"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Eastex Home Center",
+    "intermediary_full_address": "13645 FM 1960, Huffman, TX 77336",
+    "intermediary_phone": "+12813241394",
+    "intermediary_licence_number": "RBI 36506",
+    "intermediary_vep_code": "differ",
+    "intermediary_dealer_feedback": "Not sure right now, will get with sales reps",
+    "intermediary_record_id": "23619256213",
+    "intermediary_members": [
+      {
+        "_id": "895ea4fe-e4f3-40c1-a652-9fff34c6b427",
+        "email": "conditions@eastexhomecenter.com",
+        "first_name": "Kassy"
+      },
+      {
+        "_id": "ee632cc0-5d9b-47d4-b714-f5194e8e4ea4",
+        "email": "jerry.etrhomes@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Jerry"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Conroe Home Center",
+    "intermediary_full_address": "135 twin oaks drive, Cleveland, TX 77328",
+    "intermediary_phone": "+19363808486",
+    "intermediary_licence_number": "RBI 38181",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_dealer_feedback": "so far eveyrthings been good. Got approvals, its working. Going to take a deal from all the way to funding and let us know. Just got started with us.",
+    "intermediary_record_id": "23597643872",
+    "intermediary_members": [
+      {
+        "_id": "d58292ac-2ee3-40f0-91ab-09408b93da52",
+        "email": "aponzio@conroehc.com",
+        "job_title": "General Manager",
+        "first_name": "Alex",
+        "last_name": "Ponzio"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor New Braunfels",
+    "intermediary_full_address": "9040 I 35 N Frontage Rd, New Braunfels, TX 78130",
+    "intermediary_phone": "+15122957803",
+    "intermediary_record_id": "23618300473",
+    "intermediary_members": [
+      {
+        "_id": "0e578036-3c7f-443a-8bac-8c5e9d4de4d5",
+        "email": "om048@palmharbor.com",
+        "first_name": "Sally"
+      },
+      {
+        "_id": "cfa7ae69-3084-4e35-a301-a616a53725be",
+        "email": "ops048@palmharbor.com",
+        "first_name": "Cherie"
+      },
+      {
+        "_id": "2966d598-243d-4eff-8e59-5ae664fd5076",
+        "email": "gm048@palmharbor.com",
+        "first_name": "Mike"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Midland",
+    "intermediary_full_address": "4120 w wall st, Midland, TX 79703",
+    "intermediary_dealer_feedback": "emails going to wrong the people..need to include the right people . Maybe have priority deals for \"adders\" for the month… wanting priority on it.",
+    "intermediary_record_id": "23619246198",
+    "intermediary_members": [
+      {
+        "_id": "f69d5e99-54da-4739-a24f-70f6a4a59378",
+        "email": "Brharris@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Brandon",
+        "last_name": "Harris"
+      },
+      {
+        "_id": "cd1dd5ba-28e3-4f8c-b680-b12d59d4f7b6",
+        "email": "mkeelin@titanfactorydirect.com"
+      },
+      {
+        "_id": "9283c5ad-de67-44b0-bc91-0bf16839ae1d",
+        "email": "avilla@titanfactorydirect.com"
+      },
+      {
+        "_id": "89fd8b1e-7ad1-489e-b7c9-5fcb5ce956ea",
+        "email": "uescapita@titanfactorydirect.com"
+      },
+      {
+        "_id": "e4ab7654-cd67-4e5e-ac5e-bb84b3bf0cf0",
+        "email": "mocontreras@titanfactorydirect.com"
+      },
+      {
+        "_id": "b2db42c2-7ede-4254-a954-78cce1758ec3",
+        "email": "jrodriguez@titanfactorydirect.com"
+      },
+      {
+        "_id": "ffe63981-0ffa-4d59-b2d4-6e825a2cdf01",
+        "email": "mhoward@titanfactorydirect.com"
+      },
+      {
+        "_id": "c11177ad-5e33-48a1-9003-20ee78bffcc4",
+        "email": "sdominguez@titanfactorydirect.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Austin",
+    "intermediary_full_address": "6511 E ben white blvd, Austin, TX 78741",
+    "intermediary_phone": "+15123948181",
+    "intermediary_licence_number": "RBI 36616",
+    "intermediary_vep_code": "Differ",
+    "intermediary_record_id": "23618287929",
+    "intermediary_members": [
+      {
+        "_id": "4171d101-9216-4d4b-b7e3-0cd7d5c941b3",
+        "email": "ntodd@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Nikki",
+        "last_name": "Todd"
+      },
+      {
+        "_id": "902e6473-66b7-4e09-bbdd-6e703a005b18",
+        "email": "bhenarie@titanfactorydirect.com",
+        "first_name": "Betina",
+        "last_name": "Henarie"
+      },
+      {
+        "_id": "a368f7e2-64d2-44f6-b660-fce2f2bbf4c8",
+        "email": "temeralds@titanfactorydirect.com",
+        "first_name": "Tara",
+        "last_name": "Emeralds"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Elmendorf",
+    "intermediary_full_address": "19920 Interstate HWY 37, elmendorf, TX 78112",
+    "intermediary_phone": "+12105910129",
+    "intermediary_licence_number": "RBI 36845",
+    "intermediary_vep_code": "Differ",
+    "intermediary_record_id": "23619227807",
+    "intermediary_members": [
+      {
+        "_id": "4554ef68-2c26-4669-a296-535946059eb0",
+        "email": "amota@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Antonio",
+        "last_name": "Mota"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory - Abilene",
+    "intermediary_full_address": "1400 W Overland Trail, Abilene, TX 79601",
+    "intermediary_phone": "+13254808897",
+    "intermediary_dealer_feedback": "Sometimes dealer has had to order docs multiple times on files that should have been easier.. Could have been prevented if thomas knows what our maximums or allowable increases, he can shuffle numbers around and make it way easier - sending them site work allowance. Asking if we can docusign all landlord docs, bank docs, etc. from the start.",
+    "intermediary_record_id": "23614958240",
+    "intermediary_members": [
+      {
+        "_id": "7a1a9add-52f3-48fd-b78a-74f9b93f926f",
+        "job_title": "General Manager",
+        "first_name": "Hunter",
+        "last_name": "Nall"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - San Antonio",
+    "intermediary_full_address": "1950 SW Loop 410, San Antonio, TX 78227",
+    "intermediary_phone": "+12106735616",
+    "intermediary_record_id": "23619227809",
+    "intermediary_members": [
+      {
+        "_id": "6872a95c-0b4c-4550-abf8-a69f397a8367",
+        "email": "phartwig@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Peter",
+        "last_name": "Hartwig"
+      },
+      {
+        "_id": "0fd5cba4-21dc-47d6-b5b8-fe6b0b6b2b92",
+        "email": "WWheeler@titanfactorydirect.com",
+        "first_name": "Warren",
+        "last_name": "Wheeler"
+      },
+      {
+        "_id": "d368f28e-0634-49de-b557-0bf5c587402f",
+        "email": "tscales@titanfactorydirect.com",
+        "first_name": "Thomas",
+        "last_name": "Scales"
+      },
+      {
+        "_id": "2b7f9fa3-5ffd-444f-a0fb-416614ead025",
+        "email": "CNorton@titanfactorydirect.com",
+        "job_title": "Back Office manager",
+        "first_name": "Celina",
+        "last_name": "Norton"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Willis",
+    "intermediary_full_address": "12775 Interstate 45 N, Willis, TX 77318",
+    "intermediary_phone": "+19366663161",
+    "intermediary_dealer_feedback": "Nick had mentioned that we have made coms much better with the new point of contact program that we have launched.",
+    "intermediary_record_id": "23619230346",
+    "intermediary_members": [
+      {
+        "_id": "3538a3dc-b21a-4327-9106-3514f2f5d270",
+        "email": "Nmora@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Nick",
+        "last_name": "Mora"
+      },
+      {
+        "_id": "2d249b73-273e-4f89-b539-8c3c329d489c",
+        "email": "Drocha@titanfactorydirect.com"
+      },
+      {
+        "_id": "d975a417-e0be-4a2c-a140-cef8017cd6b5",
+        "email": "Kpiccirilli@titanfactorydirect.com"
+      },
+      {
+        "_id": "b368fb97-da89-4d1a-88d0-6ee39723f205",
+        "email": "rrossano@titanfactorydirect.com"
+      },
+      {
+        "_id": "199a6509-dbe1-4e0c-9be3-d1008cfb2c0b",
+        "email": "bhearron@titanfactorydirect.com"
+      },
+      {
+        "_id": "ac673354-d0ea-4ef0-89d0-d8317d2cf6de",
+        "email": "kjfisher@titanfactorydirect.com"
+      },
+      {
+        "_id": "e85a421d-f65a-49b2-8a27-482e6fb105c7",
+        "email": "msawka@titanfactorydirect.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Odessa",
+    "intermediary_full_address": "2320 E 8th St, Odessa TX 79761",
+    "intermediary_phone": "+14323329733"
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Clearance San Antonio",
+    "intermediary_full_address": "8305 US Hwy 90, San Antonio, TX 78227",
+    "intermediary_phone": "+12103054844"
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Georgetown",
+    "intermediary_full_address": "4913 I35 N frontage rd, Georgetown, TX 78626",
+    "intermediary_phone": "+15128680709",
+    "intermediary_record_id": "23618316109",
+    "intermediary_members": [
+      {
+        "_id": "2a2469f7-5e82-4fa5-bc94-42df556662cd",
+        "job_title": "General Manager",
+        "first_name": "Rick",
+        "last_name": "Minor"
+      },
+      {
+        "_id": "952069c5-43db-42ff-9dff-e5c2a906623c",
+        "first_name": "Jason",
+        "last_name": "Twaddle"
+      },
+      {
+        "_id": "73898b98-b715-4585-9ffb-91ac770b7ab1",
+        "job_title": "Sales Manager",
+        "first_name": "Nick"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - New Braunfels",
+    "intermediary_full_address": "1999 IH 35, New Braunfels, TX 78130",
+    "intermediary_phone": "+18306204500",
+    "intermediary_licence_number": "RBI 36649",
+    "intermediary_vep_code": "differ",
+    "intermediary_record_id": "23618311096",
+    "intermediary_members": [
+      {
+        "_id": "89380a1a-63c3-45df-a97e-8ed0ad50deeb",
+        "email": "mkubala@titanfactorydirect.com",
+        "first_name": "Matt",
+        "last_name": "Kubala"
+      },
+      {
+        "_id": "208e436b-7053-4e75-a062-184d9bf69865",
+        "email": "HHechavarria@titanfactorydirect.com",
+        "first_name": "Heydis",
+        "last_name": "Hechavarria"
+      },
+      {
+        "_id": "478b2766-7b61-4bbe-8251-b978e2564797",
+        "email": "rthomas@titanfactorydirect.com",
+        "first_name": "Ryan"
+      },
+      {
+        "_id": "9153c5bf-72b6-4770-b9f1-194be8bc12f1",
+        "email": "JBoman@titanfactorydirect.com",
+        "first_name": "Jeremy"
+      },
+      {
+        "_id": "1460dab6-cf11-48e8-b090-776526105715",
+        "email": "JDominguez@titanfactorydirect.com",
+        "first_name": "Josh"
+      },
+      {
+        "_id": "1fbccf96-62cf-4ca1-8c8b-401551d809c3",
+        "email": "CCearley@titanfactorydirect.com",
+        "first_name": "Cheyenne"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Titan Factory Direct - Victoria",
+    "intermediary_full_address": "5402 Houston Hwy, Vicotria, TX 77901",
+    "intermediary_phone": "+13615769900",
+    "intermediary_licence_number": "RBI 36792",
+    "intermediary_vep_code": "Differ",
+    "intermediary_record_id": "23619222372",
+    "intermediary_members": [
+      {
+        "_id": "4014a278-cc11-4b96-a74c-8702967e59a4",
+        "email": "MMcDonald@titanfactorydirect.com",
+        "job_title": "General Manager",
+        "first_name": "Michael",
+        "last_name": "Mcdonald"
+      },
+      {
+        "_id": "8b55c18b-e45f-44af-baea-3b2e71b86ec1",
+        "email": "vwalker@titanfactorydirect.com",
+        "first_name": "Vivian",
+        "last_name": "Walker"
+      },
+      {
+        "_id": "7d94d156-15f8-4ff0-9520-47f21d92a309",
+        "email": "dcbeck@titanfactorydirect.com",
+        "first_name": "Derick"
+      },
+      {
+        "_id": "44b546ad-bed5-40b8-9c28-f7b45e587e9f",
+        "email": "jharrison@titanfactorydirect.com",
+        "first_name": "Jason",
+        "last_name": "Harrison"
+      },
+      {
+        "_id": "2d2abc02-0c67-4522-95f1-114d607c0b8d",
+        "email": "jquattlebaum@titanfactorydirect.com",
+        "first_name": "Joseph",
+        "last_name": "Quatelbaum"
+      },
+      {
+        "_id": "7e2f1d8f-d51c-42d6-8c3f-d06fc3e1532d",
+        "email": "bkubala@titanfactorydirect.com",
+        "first_name": "Brandon",
+        "last_name": "Kubala"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Scipio Communities",
+    "intermediary_dealer_feedback": "Biggest thing is that there are multiple people touching file. Too many hands in the pot.",
+    "intermediary_record_id": "23618300471",
+    "intermediary_members": [
+      {
+        "_id": "c5e91dfe-e103-4f84-9a64-0c2d9de95d6b",
+        "email": "lmertz@scipioventures.com",
+        "first_name": "Louis",
+        "last_name": "Mertz"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Friendship Homes Magnolia",
+    "intermediary_full_address": "29609 Highland Blvd, Magnolia, TX 77354",
+    "intermediary_phone": "+13466361497",
+    "intermediary_licence_number": "RBI 38127",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_record_id": "23618303064",
+    "intermediary_members": [
+      {
+        "_id": "8d430027-bd8c-4125-93f9-8df04e4b0883",
+        "email": "info@friendshiphomesllc.com",
+        "job_title": "General Manager",
+        "first_name": "Carlos",
+        "last_name": "Villanueva"
+      },
+      {
+        "_id": "a37ab183-bd1a-4311-a548-234948b20435",
+        "email": "aortiz@friendshiphomesllc.com"
+      },
+      {
+        "_id": "513c9e82-eee7-41cf-96f0-699db0813b26",
+        "email": "aaquirino@friendshiphomesllc.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor Elmendorf",
+    "intermediary_full_address": "19910 I-37, elmendorf, TX 78112",
+    "intermediary_phone": "+12106269800",
+    "intermediary_record_id": "23618182512",
+    "intermediary_members": [
+      {
+        "_id": "183683ce-325a-4c36-babd-5ea9129996d3",
+        "email": "gm038@palmharbor.com",
+        "first_name": "Brandon"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Solitaire Homes Tyler",
+    "intermediary_full_address": "724 S Se Loop 323, Tyler, TX 75707",
+    "intermediary_phone": "+19035319209",
+    "intermediary_record_id": "23618313734",
+    "intermediary_members": [
+      {
+        "_id": "73436e88-26e9-44d0-8efc-e37793f46e5f",
+        "email": "sls609-02@cavco.com",
+        "first_name": "Joe"
+      },
+      {
+        "_id": "7e4ef988-4660-463d-8df9-cbe5e8306c13",
+        "email": "gm609@cavco.com",
+        "first_name": "Chad"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - Tyler",
+    "intermediary_full_address": "2701 E Front st, tyler, TX 75702",
+    "intermediary_phone": "+19035954411",
+    "intermediary_record_id": "23618285472",
+    "intermediary_members": [
+      {
+        "_id": "2d326a08-432f-4c3b-85e6-b06423afc095",
+        "email": "gm007@palmharbor.com",
+        "job_title": "General Manager",
+        "first_name": "Aaron",
+        "last_name": "Purvis"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Solitaire Homes - Lufkin",
+    "intermediary_full_address": "1202 N Medford Dr, Lufkin, TX 75901",
+    "intermediary_phone": "+19366994600",
+    "intermediary_dealer_feedback": "No issues come to mind..",
+    "intermediary_record_id": "23619266398",
+    "intermediary_members": [
+      {
+        "_id": "31f969e8-86c0-4276-9d7b-34194845df8b",
+        "email": "gm609@cavco.com",
+        "job_title": "General Manager",
+        "first_name": "Chad",
+        "last_name": "Adams"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Brazoria County MH",
+    "intermediary_full_address": "3311 Trufle Rue St, Rosharon, TX 77583",
+    "intermediary_phone": "+19794816000",
+    "intermediary_licence_number": "RBI 37447",
+    "intermediary_record_id": "23604188190",
+    "intermediary_members": [
+      {
+        "_id": "88ac324c-4c06-44cf-95f5-7793ce47f171",
+        "email": "nngarza11@gmail.com",
+        "first_name": "Natasha"
+      },
+      {
+        "_id": "b01d1d4b-9b5b-4384-98c5-c148175cbe61",
+        "email": "velalberto22@gmail.com",
+        "first_name": "Alberto"
+      },
+      {
+        "_id": "3d537f08-91c2-4eda-a083-da3622f0cd8c",
+        "email": "jlal34@yahoo.com",
+        "first_name": "Gene"
+      },
+      {
+        "_id": "e1c6dd7c-a3a6-467b-bd6f-a7595a81a193",
+        "email": "sothers@comcast.net"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor Houston",
+    "intermediary_full_address": "13030 Gulf Fwy, Houston, TX 77034",
+    "intermediary_phone": "+12814841000",
+    "intermediary_visit_notes": "Having no issues at all. Extreamly excitited to be partnerd with us. Can't wait for I-10 to roll out.",
+    "intermediary_record_id": "23619227806",
+    "intermediary_members": [
+      {
+        "_id": "0d9cfbe2-e10b-4620-9ff9-4b562d4abe38",
+        "email": "gm020@palmharbor.com",
+        "job_title": "General Manager",
+        "first_name": "Cody",
+        "last_name": "Peek"
+      },
+      {
+        "_id": "ec62b67a-c89c-4053-9d6a-fe98b60bdc87",
+        "email": "ops020@palmharbor.com",
+        "job_title": "Ops Manager",
+        "first_name": "Leann",
+        "last_name": "Pedersou"
+      },
+      {
+        "_id": "d72c1102-fbbc-4ac8-9d8b-427e363d7ffa",
+        "email": "sls020@palmharbor.com",
+        "first_name": "Fabiola",
+        "last_name": "Sanchez"
+      },
+      {
+        "_id": "21f34a24-e538-419a-8000-3e14a18fb427",
+        "email": "sls020-01@palmharbor.com",
+        "first_name": "Andy",
+        "last_name": "Garza"
+      },
+      {
+        "_id": "7c90817e-742c-4af2-af6a-fd5c8270eb3e",
+        "email": "sls020-02@palmharbor.com",
+        "first_name": "Javier",
+        "last_name": "Kermit"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek - Huntsville",
+    "intermediary_full_address": "664 I-45, Huntsville, TX 77340",
+    "intermediary_phone": "+19367554430",
+    "intermediary_record_id": "23618275429",
+    "intermediary_members": [
+      {
+        "_id": "3fad6cfc-625a-4457-b28e-505220e69ecd",
+        "email": "Monty.Tharp@oakcreekhomes.com",
+        "first_name": "Monty",
+        "last_name": "Tharp"
+      },
+      {
+        "_id": "07d67604-767b-4612-b92c-3595b95cd100",
+        "email": "Connier@hstr.com",
+        "first_name": "Connie",
+        "last_name": "Rice"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Alamo Manufactured Homes - Willis",
+    "intermediary_full_address": "11770 FM 2432, Willis, TX 77378",
+    "intermediary_phone": "+193622829578",
+    "intermediary_licence_number": "RBI 33666",
+    "intermediary_record_id": "23603732394",
+    "intermediary_members": [
+      {
+        "_id": "5095bdb9-c7e8-41e4-8d85-80f72e943ad3",
+        "email": "info@alamomfdhomes.com",
+        "job_title": "Owner",
+        "first_name": "David",
+        "last_name": "D'alejandro"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Tandem Home center",
+    "intermediary_full_address": "12271 TX-31, Tyler, TX 75709",
+    "intermediary_phone": "+19035930123",
+    "intermediary_record_id": "23616289950",
+    "intermediary_members": [
+      {
+        "_id": "178f891f-0d46-445a-b74e-3cd74337b22e",
+        "email": "mikew@tandemhomecenter.com",
+        "first_name": "Mike"
+      },
+      {
+        "_id": "81a09dfb-ee0f-4cba-ac37-d7299a4b515d",
+        "email": "mpannitti@americanhomestyler.com",
+        "job_title": "sales rep",
+        "first_name": "Michael",
+        "last_name": "Pannitti"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - Alvin",
+    "intermediary_full_address": "1875 Alvin Bypass, Alvin, TX 77511",
+    "intermediary_phone": "+18329741300",
+    "intermediary_record_id": "23618308537",
+    "intermediary_members": [
+      {
+        "_id": "3f5b486e-eb7c-47aa-9abc-5d8abeebbc64",
+        "email": "gm090@palmharbor.com",
+        "job_title": "General Manager",
+        "first_name": "Scott"
+      },
+      {
+        "_id": "6f38be55-4cde-4d06-9dfc-0cb0e9d4ae18",
+        "email": "sls090@palmharbor.com",
+        "first_name": "Matt",
+        "last_name": "Emory"
+      },
+      {
+        "_id": "658fcc7f-6f7f-478f-9d7e-19fe9720edcd",
+        "email": "sls090-03@palmharbor.com",
+        "first_name": "Nathaniel",
+        "last_name": "Edward"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Clawson Homes",
+    "intermediary_full_address": "47884 US-69, Bullard, TX 75757",
+    "intermediary_phone": "+19035744167",
+    "intermediary_record_id": "23619266399",
+    "intermediary_members": [
+      {
+        "_id": "cfd8ece5-1fb5-4ef0-b282-a6d8fe3c8870",
+        "job_title": "Owner",
+        "first_name": "Clint",
+        "last_name": "Clawson"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek Splendora",
+    "intermediary_full_address": "15695 US-59, Splendora, TX 77372",
+    "intermediary_phone": "+18338244480",
+    "intermediary_record_id": "23619055778",
+    "intermediary_members": [
+      {
+        "_id": "0fa50697-0e40-4014-a5f1-37941ac28ac4",
+        "email": "Jamie.Baker@oakcreekhomes.com",
+        "first_name": "Jamie",
+        "last_name": "Baker"
+      },
+      {
+        "_id": "33592107-4934-4757-9801-70e18220d1e9",
+        "email": "Polly.Faucett@oakcreek.com",
+        "first_name": "Polly",
+        "last_name": "Faucett"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek Lufkin",
+    "intermediary_full_address": "1301 N Medford Dr, Lufkin, TX 75901",
+    "intermediary_phone": "+19364659192",
+    "intermediary_record_id": "23619263653",
+    "intermediary_members": [
+      {
+        "_id": "31d6155c-9d4a-411b-92f9-98c1144cb176",
+        "email": "Trey.Melchor@oakcreekhomes.com",
+        "first_name": "Trey",
+        "last_name": "Melchor"
+      },
+      {
+        "_id": "66147260-f5ac-46a6-8758-2b332efc4e19",
+        "email": "Devran@hstr.com",
+        "first_name": "Devra",
+        "last_name": "Norton"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Wright Manufactured Homes",
+    "intermediary_full_address": "21338 I-10, Vidor, TX 77662",
+    "intermediary_phone": "+14094220660"
+  },
+  {
+    "intermediary_name": "Pratt Homes",
+    "intermediary_full_address": "310 S SE Loop 323, Tyler, TX 75702",
+    "intermediary_phone": "+19035967333",
+    "intermediary_dealer_feedback": "Dealer says we've been decent. Wishes we could send all conditions updates at once.",
+    "intermediary_record_id": "23603732395",
+    "intermediary_members": [
+      {
+        "_id": "13d9efaa-131b-4976-8a34-c724b574390c",
+        "email": "cconklin@prattmodular.com",
+        "job_title": "General Manager",
+        "first_name": "Chuck"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Fiesta Homes",
+    "intermediary_full_address": "6703 Andrews Hwy, Odessa, TX 79762",
+    "intermediary_phone": "+14326535665",
+    "intermediary_licence_number": "RBI 37065",
+    "intermediary_vep_code": "Differ",
+    "intermediary_record_id": "23604786315",
+    "intermediary_members": [
+      {
+        "_id": "f975b8ac-2de9-4c86-abc9-721c6e9e6537",
+        "email": "fiestahomesodessa@gmail.com",
+        "job_title": "Store"
+      },
+      {
+        "_id": "f68940b3-9b90-4058-a289-37f48ec37d6e",
+        "first_name": "Demus",
+        "last_name": "Avalos"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "A1 Homes Midland",
+    "intermediary_full_address": "7206 W Hwy 80, Midland, TX 79706",
+    "intermediary_phone": "+14325639000",
+    "intermediary_licence_number": "RBI 35241",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "At the beginning , getting conditions or getting someone to answer the phone was a struggle, but its gotten better.",
+    "intermediary_record_id": "23598251846",
+    "intermediary_members": [
+      {
+        "_id": "4a1c92c9-dd35-4072-8526-0d8d1bbb5f65",
+        "email": "a1midlandms@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Miguel",
+        "last_name": "Jr"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "A1 Homes Odessa",
+    "intermediary_full_address": "4750 Andrews Hwy, Odessa, TX 79762",
+    "intermediary_phone": "+14323630881",
+    "intermediary_licence_number": "RBI 35740",
+    "intermediary_vep_code": "Differ",
+    "intermediary_record_id": "23619248507",
+    "intermediary_members": [
+      {
+        "_id": "043518a2-fcfc-4567-b145-c3ad404af62a",
+        "email": "a1homesodessa@gmail.com",
+        "job_title": "General Manager",
+        "first_name": "Miguel",
+        "last_name": "Sanchez"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor Corinth",
+    "intermediary_full_address": "5451 S Interstate 35 E, Corinth, TX 76210",
+    "intermediary_phone": "+19404975222",
+    "intermediary_dealer_feedback": "Good with us so far. Have 2 deals closing, no fundings yet. They are waiting to see how those go",
+    "intermediary_record_id": "23619241065",
+    "intermediary_members": [
+      {
+        "_id": "123d1285-4e7d-4c51-b39d-cc4ac90b07d0",
+        "job_title": "General Manager",
+        "first_name": "Josh",
+        "last_name": "Mikkelsen"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor Corpus Christi",
+    "intermediary_full_address": "1638 N Padre Island Dr, Corpus Christi, TX 78408",
+    "intermediary_phone": "+13612892422",
+    "intermediary_record_id": "23619217532",
+    "intermediary_members": [
+      {
+        "_id": "01a1ba7d-caf1-4af2-82fa-5b670a47058a",
+        "email": "gm035@palmharbor.com",
+        "job_title": "General Manager",
+        "first_name": "Alex",
+        "last_name": "Darley"
+      },
+      {
+        "_id": "9277adf9-a152-4cea-b5f7-b3e7b0f01b93",
+        "email": "sls035-04@palmharbor.com"
+      },
+      {
+        "_id": "faa70ce9-d75e-4688-abbe-191d3e1565e0",
+        "email": "sls035-03@palmharbor.com"
+      },
+      {
+        "_id": "1451ef7c-0118-41cd-b1d1-88651bd1d40c",
+        "email": "sls035-07@palmharbor.com"
+      },
+      {
+        "_id": "fd548dc1-2e6e-4bf4-bcb0-983526880bae",
+        "email": "sls035-05@palmharbor.com"
+      },
+      {
+        "_id": "2d69f2c4-830b-4cad-ad2d-96c51386074f",
+        "email": "ops035@palmharbor.com"
+      },
+      {
+        "_id": "6116f480-afe0-4315-81d8-cc6bb56a5faf",
+        "email": "om035@palmharbor.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Cowboy Capital Cottages",
+    "intermediary_full_address": "4014 Hwy 16, Bandera, TX 78003",
+    "intermediary_phone": "+18774689465",
+    "intermediary_vep_code": "Differ",
+    "intermediary_dealer_feedback": "Likes us! No complaints",
+    "intermediary_record_id": "23617620034",
+    "intermediary_members": [
+      {
+        "_id": "e0a1b957-2ce0-4b28-a1d1-37cca793c748",
+        "email": "jeremysalois@gmail.com",
+        "first_name": "Jeremy",
+        "last_name": "Salois"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Solitaire Homes Abilene",
+    "intermediary_full_address": "2150 W Overland Trail, Abilene, TX 79603",
+    "intermediary_phone": "+13256773113",
+    "intermediary_licence_number": "RBI 36525",
+    "intermediary_vep_code": "VEP 0",
+    "intermediary_record_id": "23619258775",
+    "intermediary_members": [
+      {
+        "_id": "08b918ba-d584-4d4a-b902-607eeefe957d",
+        "email": "gm601@cavco.com",
+        "job_title": "General Manager",
+        "first_name": "Adam",
+        "last_name": "Hammett"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - San Antonio",
+    "intermediary_full_address": "2615 SW Loop 410, San Antonio, TX 78227",
+    "intermediary_phone": "+12106753980",
+    "intermediary_record_id": "23616453509",
+    "intermediary_members": [
+      {
+        "_id": "bc9b399f-ff7a-4654-b1ae-cc7543efb83f",
+        "first_name": "Cliff"
+      },
+      {
+        "_id": "837d0332-0b71-43e7-91c3-382e4b3fae75",
+        "email": "sls011-10@palmharbor.com",
+        "first_name": "Christa"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - Denton",
+    "intermediary_full_address": "5451 S Interstate 35 E, Corinth, TX 76210",
+    "intermediary_phone": "+19404975222",
+    "intermediary_record_id": "23601063349",
+    "intermediary_members": [
+      {
+        "_id": "56ed330d-0217-448f-8ee6-4ecaf5726555",
+        "email": "gm006@palmharbor.com",
+        "first_name": "Josh",
+        "last_name": "Mikkelsen"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - Tomball",
+    "intermediary_full_address": "27350 Tomball Pkwy, tomball, TX 77375",
+    "intermediary_phone": "+12815167083",
+    "intermediary_visit_notes": "Dealer looks forward to using us more have only been using us for 3 weeks, we had an issue with a deal that we ended up losing to another lending due to lack of coms. Also mentioned high bank fee's. They are excitied to see what we can do moving forward.",
+    "intermediary_record_id": "23598251845",
+    "intermediary_members": [
+      {
+        "_id": "fd6db2b3-af2a-4546-9721-b166493831db",
+        "email": "gm067@palmharbor.com",
+        "first_name": "Crystal",
+        "last_name": "Maywalz"
+      },
+      {
+        "_id": "290f7d4e-b009-4eee-a31c-a90b14b1c808",
+        "email": "sls067-04@palmharbor.com",
+        "first_name": "Francico",
+        "last_name": "Cruz"
+      },
+      {
+        "_id": "99568ab7-78d4-4da5-8ead-e5f96da04d91",
+        "email": "sls067-01@palmharbor.com",
+        "first_name": "Susan D",
+        "last_name": "Torchia"
+      },
+      {
+        "_id": "a8d4b312-2e2d-467b-b4d8-3918dce3f346",
+        "email": "sls067@palmharbor.com",
+        "first_name": "Regina",
+        "last_name": "Greenwood"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Higdon Oaks",
+    "intermediary_full_address": "5718 Higdon Rd, San Antonio, TX 78223",
+    "intermediary_phone": "+12106644663",
+    "intermediary_record_id": "23618020678",
+    "intermediary_members": [
+      {
+        "_id": "415046af-fc49-41b5-8d28-8a4e31655c73",
+        "email": "angelic@livelonestar.com",
+        "first_name": "Angelic",
+        "last_name": "Ruggirello"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek - Bryan",
+    "intermediary_full_address": "2103 E State hwy 21, Bryan, TX 77803",
+    "intermediary_phone": "+19794460298",
+    "intermediary_record_id": "23618283329",
+    "intermediary_members": [
+      {
+        "_id": "e5dbc300-d453-45d5-8c8d-b142b848702a",
+        "email": "cherylc@oakcreekhomes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Solitaire Homes - Pearland",
+    "intermediary_full_address": "4030 S Main St, Pearland, TX 77581",
+    "intermediary_phone": "+13464397650",
+    "intermediary_record_id": "23612483995",
+    "intermediary_members": [
+      {
+        "_id": "2fec1a69-a21b-4287-a4bc-7e4e492bf35f",
+        "email": "gm640@cavco.com",
+        "first_name": "Luis",
+        "last_name": "Gonzalez"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "A1 Homes - Conroe",
+    "intermediary_full_address": "3400 N Loop 336 E, Conroe, TX 77301",
+    "intermediary_phone": "+19362028100",
+    "intermediary_record_id": "23602813788",
+    "intermediary_members": [
+      {
+        "_id": "ce11c976-dc3c-4649-ae61-6ffe01341ae4",
+        "email": "a1homesjacob@gmail.com",
+        "first_name": "Jacob",
+        "last_name": "Ricossa"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "TLR Homes",
+    "intermediary_full_address": "23417 I-10, Vidor, TX 77662",
+    "intermediary_phone": "+14097695200",
+    "intermediary_record_id": "23616289951",
+    "intermediary_members": [
+      {
+        "_id": "5296078b-c481-48ca-ba6e-fe0e6c0b986e",
+        "email": "derektlrhomes@gmail.com",
+        "first_name": "Derek",
+        "last_name": "Veazey"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek - Lake Charles",
+    "intermediary_full_address": "2350 Broad St, Lake Charles, LA 70601",
+    "intermediary_phone": "+13373134613",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Oak Creek - Bryan / College Station",
+    "intermediary_full_address": "2103 E State hwy 21, Bryan, TX 77803",
+    "intermediary_phone": "+19794460298"
+  },
+  {
+    "intermediary_name": "Oak Creek - Alvin",
+    "intermediary_full_address": "23296 Hwy 6, Alvin, TX 77511",
+    "intermediary_phone": "+18779390024",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Oak Creek - Seguin",
+    "intermediary_full_address": "3090 I Hwy 10 West, Seguin, TX 78155",
+    "intermediary_phone": "+18304480309",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Palm Harbor - Conroe",
+    "intermediary_full_address": "15396 Interstate 45 S, Conroe, TX 77384",
+    "intermediary_phone": "+19362736565",
+    "intermediary_record_id": "23615502183",
+    "intermediary_members": [
+      {
+        "_id": "c9601118-14e6-4331-bec2-22846e2a5e40",
+        "email": "gm032@palmharbor.com",
+        "first_name": "Camara"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Palm Harbor - Seguin",
+    "intermediary_full_address": "401 IH 10 W Access Rd, Seguin, TX 78155",
+    "intermediary_phone": "+18303791611",
+    "intermediary_record_id": "23619243617",
+    "intermediary_members": [
+      {
+        "_id": "e9d71c91-3da9-41b8-a1de-156456c6a800",
+        "email": "gm042@palmharbor.com",
+        "first_name": "Shane",
+        "last_name": "Sanders"
+      },
+      {
+        "_id": "14988c21-782e-4eab-a1bd-3f8496669c13",
+        "email": "om042@palmharbor.com"
+      },
+      {
+        "_id": "12c448d1-7d14-4da4-9775-b1106a3fbc2b",
+        "email": "sls042-04@palmharbor.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Regional Homes - Waco",
+    "intermediary_full_address": "4125 Meyers ln, lacy Lakeview, TX 76705",
+    "intermediary_phone": "+12546024062"
+  },
+  {
+    "intermediary_name": "Solitaire Homes - Tulsa",
+    "intermediary_full_address": "11311 E Admiral Pl, Tulsa, OK, 74116",
+    "intermediary_phone": "+19184375776",
+    "intermediary_record_id": "23619274551",
+    "intermediary_members": [
+      {
+        "_id": "2e2c07ea-b5dc-4105-bf00-9996cb6b3e64",
+        "email": "gm704@cavco.com",
+        "job_title": "General Manager",
+        "first_name": "John",
+        "last_name": "Polston"
+      },
+      {
+        "_id": "669e5724-4846-488d-9a96-bfaa2ab858f3",
+        "email": "aa703@cavco.com"
+      },
+      {
+        "_id": "c3866572-9f60-4351-bacb-d22471960840",
+        "email": "sls040-01@cavco.com"
+      },
+      {
+        "_id": "5d85bdac-8be9-4677-80ba-ee6b8ddc3a52",
+        "email": "ops025@palmharbor.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Oak Creek- Alvin",
+    "intermediary_full_address": "23296 Hwy 6, Alvin, TX 77511",
+    "intermediary_phone": "+18779390024",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Oak Creek - Houston",
+    "intermediary_full_address": "11305 Gulf Fwy, Housotn, TX 77034",
+    "intermediary_phone": "+17134693135",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Palm Harbor - Cleveland",
+    "intermediary_full_address": "1152 US-59 Bypass, Cleveland, TX 77327",
+    "intermediary_phone": "+18324015219",
+    "intermediary_visit_notes": "Points of intrest are that the dealer mentioned that most of the deals the dealer has had working with us have been a battle. We expressed to the dealer that we will be working on our coms for future deals coming in. All other feedback was great.",
+    "intermediary_record_id": "23619258774",
+    "intermediary_members": [
+      {
+        "_id": "5471592e-48bb-4800-8369-300d27c67aed",
+        "email": "sls023-04@palmharbor.com",
+        "job_title": "General Manager",
+        "first_name": "Luis",
+        "last_name": "Sanchez"
+      },
+      {
+        "_id": "cab638da-3d79-4877-89b7-70aaec2ef810",
+        "email": "sls023@palmharbor.com",
+        "first_name": "Doug",
+        "last_name": "French"
+      },
+      {
+        "_id": "7af2a97b-f46a-43d4-a4f6-49f255937448",
+        "email": "Om023@palmharbor.com",
+        "job_title": "Operations",
+        "first_name": "Tamera",
+        "last_name": "Starbuck"
+      },
+      {
+        "_id": "10a3a38c-4c07-4f23-92c9-f2ac67e495d8",
+        "email": "sls023-02@palmharbor.com",
+        "first_name": "Jeremy",
+        "last_name": "Beadle"
+      },
+      {
+        "_id": "09243843-df1e-4378-9234-fa2a8a54a093",
+        "email": "sls023-01@palmharbor.com",
+        "first_name": "Kelcey"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Republic Homes - Weatherford",
+    "intermediary_full_address": "2425 Fort Worth Hwy, Weatherford, TX 76087",
+    "intermediary_record_id": "23619227808",
+    "intermediary_members": [
+      {
+        "_id": "39756955-d055-45f6-8f35-0e0ede3a3f3e",
+        "email": "jodeci@republic-homes.com",
+        "job_title": "General Manager",
+        "first_name": "Jodeci"
+      },
+      {
+        "_id": "8eaa3227-7ff9-41da-825f-eda958fc7f17",
+        "email": "victor@republic-homes.com"
+      },
+      {
+        "_id": "a6ee4191-4be1-434b-a9ab-471cd3d58268",
+        "email": "mindy@republic-homes.com"
+      },
+      {
+        "_id": "3e3d16fe-2a1b-4bb2-808f-42ce8c0fff08",
+        "email": "emely@republic-homes.com"
+      },
+      {
+        "_id": "a52a871d-ebb6-4e63-8b16-ad66993569db",
+        "email": "chris@republic-homes.com"
+      },
+      {
+        "_id": "d478b037-8b9b-436f-b0b7-f5953528d0ce",
+        "email": "lindsay@republic-homes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Republic Homes - Granbury",
+    "intermediary_full_address": "3102 W US HWY 377, Granbury, TX 76048",
+    "intermediary_phone": "+18175738830",
+    "intermediary_record_id": "23619214943",
+    "intermediary_members": [
+      {
+        "_id": "e0529614-82ac-437d-94f2-4371e0288ab2",
+        "email": "erich@republic-homes.com",
+        "job_title": "General Manager",
+        "first_name": "Erich",
+        "last_name": "Adams"
+      },
+      {
+        "_id": "fb499046-7607-4259-bbcf-02ca7b0d9f1f",
+        "email": "jennifer@republic-homes.com"
+      },
+      {
+        "_id": "656a4130-eb93-4d49-b2b1-0e1b74f5bbfc",
+        "email": "Breonna@republic-homes.com"
+      },
+      {
+        "_id": "c5cf8700-0816-4f76-99c2-ee63f261025b",
+        "email": "Bryton@republic-homes.com"
+      },
+      {
+        "_id": "d2319698-fcf7-444c-ad1f-b9b57709c1cc",
+        "email": "Megan@republic-homes.com"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Republic Homes - Tyler",
+    "intermediary_full_address": "2606 E Commerce St, Tyler, TX 75702",
+    "intermediary_phone": "+19036307818",
+    "intermediary_record_id": "23619253761",
+    "intermediary_members": [
+      {
+        "_id": "66baae62-961f-478b-b3df-322a9c730eaf",
+        "email": "austin@republic-homes.com",
+        "job_title": "General Manager",
+        "first_name": "Austin",
+        "last_name": "Tarleton"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Mobile Homes Masters",
+    "intermediary_full_address": "12010 TX-31, Tyler, TX 75705",
+    "intermediary_phone": "+19035967608",
+    "intermediary_record_id": "23618285473",
+    "intermediary_members": [
+      {
+        "_id": "e9004165-b951-4d1e-aa62-80135f9f7fd9",
+        "email": "sales@mobilehomemasters.com",
+        "job_title": "General Manager",
+        "first_name": "Ray",
+        "last_name": "Stinger"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Mobile Home Concepts - Odessa"
+  },
+  {
+    "intermediary_name": "Mobile Home Concepts - Abilene"
+  },
+  {
+    "intermediary_name": "Academy Homes Tyler",
+    "intermediary_full_address": "915 SSW Loop 323, Tyler, TX 75701",
+    "intermediary_phone": "+19035618485",
+    "intermediary_record_id": "23610166912",
+    "intermediary_members": [
+      {
+        "_id": "b90983bb-a9aa-448d-87a0-b7773e84ac23",
+        "first_name": "Kelly",
+        "last_name": "Lyons"
+      },
+      {
+        "_id": "7163db7c-7ff0-4ea0-87e5-83aad211ceb7",
+        "email": "jennifer@academyhomesoftyler.com",
+        "job_title": "General Manager",
+        "first_name": "Jennifer",
+        "last_name": "Averitt"
+      }
+    ]
+  },
+  {
+    "intermediary_name": "Academy Homes Palestine"
+  },
+  {
+    "intermediary_name": "Oak Creek - Corpus",
+    "intermediary_visit_notes": "Points of intrest for the dealers were that we are very good at what we do didn’t really have any complaints. One question of concern was the insurance binder. (issues of having to resubmitt it) Other than that they are excited for all of our programs to roll out."
+  },
+  {
+    "intermediary_name": "Palm Harbor - Waco",
+    "intermediary_full_address": "4740 I-35, Waco, TX 76705",
+    "intermediary_phone": "+19033638224",
+    "intermediary_record_id": "23618300472",
+    "intermediary_members": [
+      {
+        "_id": "727f69ef-f1d0-4ded-8cfa-446d225482f2",
+        "job_title": "General Manager",
+        "first_name": "Jorge",
+        "last_name": "Garcia"
+      }
+    ]
+  }
+]

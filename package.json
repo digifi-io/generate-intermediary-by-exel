@@ -1,0 +1,26 @@
+{
+  "name": "logan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node ./src/index.ts",
+    "preview": "ts-node ./src/preview.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@digifi/digifi-node-js": "^5.1.0",
+    "@types/lodash": "^4.17.12",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "node-xlsx": "^0.24.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.8"
+  }
+}
